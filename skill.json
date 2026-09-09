@@ -1,0 +1,13 @@
+{
+  "name": "genpark-write-ahead-log-aries-recovery-skill",
+  "version": "1.0.0",
+  "description": "Industrial-grade ARIES database recovery engine with Analysis, Redo, and Undo phases using Compensation Log Records (CLRs) and Dirty Page Tables.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "database-engine",
+    "aries-recovery",
+    "wal-logging",
+    "acid-transactions"
+  ]
+}
